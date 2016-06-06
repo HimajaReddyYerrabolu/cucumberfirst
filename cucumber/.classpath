@@ -34,5 +34,14 @@
 	<classpathentry kind="lib" path="F:/mindqimpdownloads/cucumber-jars/cucumber-testng-1.2.4.jar"/>
 	<classpathentry kind="lib" path="F:/mindqimpdownloads/cucumber-jars/gherkin-4.0.0.jar"/>
 	<classpathentry kind="lib" path="F:/mindqimpdownloads/cucumber-jars/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Himaja/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/2.53.0/selenium-remote-driver-2.53.0.jar" sourcepath="C:/Users/Himaja/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/2.53.0/selenium-remote-driver-2.53.0-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.seleniumhq.selenium"/>
+			<attribute name="maven.artifactId" value="selenium-remote-driver"/>
+			<attribute name="maven.version" value="2.53.0"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
